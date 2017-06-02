@@ -4,4 +4,5 @@ manage passwords
 every one want to manage own passwords
 and no need to trust any one or any programs .... 
 
-thats it
+this is a console c# program
+to do this .
